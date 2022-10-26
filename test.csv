@@ -1,0 +1,4 @@
+firstName,lastName,email,phoneNumber,middleName,title,gender,geolocation,favoriteChild,firstName,lastName,email,phoneNumber,middleName,title,gender,geolocation,favoriteChild
+John,Doe,john@doe.com,0123456789,test,friend,male,italy,grey,John,Doe,john@doe.com,0123456789,test,friend,male,italy,grey
+Jane,Doe,jane@doe.com,9876543210,test,friend,male,italy,grey,John,Doe,john@doe.com,0123456789,test,friend,male,italy,grey
+James,Bond,james.bond@mi6.co.uk,0612345678,test,friend,male,italy,grey,John,Doe,john@doe.com,0123456789,test,friend,male,italy,grey
